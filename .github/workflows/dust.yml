@@ -1,4 +1,4 @@
-name: monk-coder-sync
+name: dust-sync
 on:
   schedule:
     - cron: '20 */6 * * *'
