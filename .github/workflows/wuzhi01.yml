@@ -1,4 +1,4 @@
-name: wuzhi01-sync
+name: wuzhi03-sync
 on:
   schedule:
     - cron: '1 */2 * * *'
@@ -6,7 +6,7 @@ on:
   watch:
     types: started
   repository_dispatch:
-    types: sync-wuzhi01-MyActions
+    types: sync-wuzhi03-MyActions
 jobs:
   repo-sync:
     env:
