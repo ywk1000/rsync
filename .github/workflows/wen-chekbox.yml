@@ -1,7 +1,7 @@
-name: sync-wenmoux
+name: sync-wen-chkbox
 on:
   schedule:
-    - cron: '35 */12 * * *'
+    - cron: '52 */12 * * *'
   workflow_dispatch:
   watch:
     types: started
@@ -18,11 +18,11 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: sync wenmoux-coder-dust
+      - name: sync wenmoux-checkbox
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
-          source_repo: "https://github.com/Wenmoux/scripts.git"
-          source_branch: "wen"
-          destination_branch: "wen"
+          source_repo: "https://github.com/Wenmoux/checkbox.git"
+          source_branch: "master"
+          destination_branch: "wen-chkbox"
           github_token: ${{ secrets.PAT }}
