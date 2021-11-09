@@ -34,7 +34,7 @@ let iku = {
 */
 
 let jj = {
-  email: "ywk2000",
+  email: "poi098@usmi.ml",
   pwd: "poilkj09",
 };
 
