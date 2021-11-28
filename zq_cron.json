@@ -1,0 +1,58 @@
+{
+  "name": "中青ios定时任务订阅",
+  "desc": "无",
+  "date": "2021-11-28 12:32:08",
+  "author": "https://t.me/+57uonEXVq8RlOTBh",
+  "resource": "https://github.com/ywk1000/sync/raw/main/zq_cron.json",
+  "list": [
+    {
+      "name": "中青自动阅读",
+      "type": "cron",
+      "time": "9 6-23/4 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js"
+      }
+    },
+    {
+      "name": "中青看点极速版",
+      "type": "cron",
+      "time": "21 6-23/4 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js"
+      }
+    },
+    {
+     "name": "中青浏览赚",
+      "type": "cron",
+      "time": "21 1-23/4 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth_gain.js"
+      }
+    },
+    {
+      "name": "中青浏览赚&看看赚",
+      "type": "cron",
+      "time": "19 9-21/4 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth_gain.js"
+      }
+    },
+    {
+      "name": "中青看点",
+      "type": "cron",
+      "time": "49 6-23/3 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js"
+      }
+    }
+  ]
+}
