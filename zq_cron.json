@@ -6,7 +6,7 @@
   "resource": "https://github.com/ywk1000/sync/raw/main/zq_cron.json",
   "list": [
     {
-      "name": "中青自动阅读",
+      "name": "ios中青自动阅读",
       "type": "cron",
       "time": "9 6-23/4 * * *",
       "job": {
@@ -15,7 +15,7 @@
       }
     },
     {
-      "name": "中青看点极速版",
+      "name": "ios中青看点极速版",
       "type": "cron",
       "time": "21 6-23/4 * * *",
       "running": true,
@@ -25,7 +25,7 @@
       }
     },
     {
-     "name": "中青浏览赚",
+     "name": "ios中青浏览赚",
       "type": "cron",
       "time": "21 1-23/4 * * *",
       "running": true,
@@ -35,7 +35,7 @@
       }
     },
     {
-      "name": "中青浏览赚&看看赚",
+      "name": "ios中青浏览赚&看看赚",
       "type": "cron",
       "time": "19 9-21/4 * * *",
       "running": true,
@@ -45,7 +45,7 @@
       }
     },
     {
-      "name": "中青看点",
+      "name": "ios中青看点",
       "type": "cron",
       "time": "49 6-23/3 * * *",
       "running": true,
