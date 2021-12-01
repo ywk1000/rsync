@@ -1,0 +1,58 @@
+{
+  "name": "ztx中青定时任务订阅",
+  "desc": "无",
+  "date": "2021-11-28 12:32:08",
+  "author": "https://t.me/+57uonEXVq8RlOTBh",
+  "resource": "https://raw.githubusercontent.com/ywk1000/sync/main/ztxzq_cron.json",
+  "list": [
+    {
+      "name": "ztx中青自动阅读",
+      "type": "cron",
+      "time": "9 6-23/4 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/y2038558528/sync/ztxtop/zqread.js"
+      }
+    },
+    {
+      "name": "Sunert中青看点极速版",
+      "type": "cron",
+      "time": "21 6-23/4 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js"
+      }
+    },
+    {
+     "name": "ztx中青看点",
+      "type": "cron",
+      "time": "21 1-23/4 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/y2038558528/sync/ztxtop/youth.js"
+      }
+    },
+    {
+      "name": "ztx中青浏览赚&看看赚",
+      "type": "cron",
+      "time": "19 9-21/4 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/y2038558528/sync/ztxtop/youth_banner.js"
+      }
+    },
+    {
+      "name": "ztx中青阅读打印",
+      "type": "cron",
+      "time": "49 6-23/3 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/y2038558528/sync/ztxtop/zqGaReadData.js"
+      }
+    }
+  ]
+}
