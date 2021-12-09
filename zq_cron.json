@@ -8,7 +8,7 @@
     {
       "name": "ios中青自动阅读",
       "type": "cron",
-      "time": "9 6-23/4 * * *",
+      "time": "11 5-23/3 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js"
@@ -17,7 +17,7 @@
     {
       "name": "ios中青看点极速版",
       "type": "cron",
-      "time": "21 6-23/4 * * *",
+      "time": "36 5-23/3 * * *",
       "running": true,
       "job": {
         "type": "runjs",
@@ -47,7 +47,7 @@
     {
       "name": "ios中青看点",
       "type": "cron",
-      "time": "49 6-23/3 * * *",
+      "time": "49 5-23/2 * * *",
       "running": true,
       "job": {
         "type": "runjs",
