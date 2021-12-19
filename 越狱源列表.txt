@@ -1,0 +1,265 @@
+BigBoss: http://apt.thebigboss.org/repofiles/cydia
+Bingner/Elucubratus: https://apt.bingner.com
+Packix: https://repo.packix.com
+Nepeta: https://repo.nepeta.me
+HackYouriPhone: http://repo.hackyouriphone.org
+Karen/あけみ's Repo: https://cydia.akemi.ai
+smokin1337's Repo: https://smokin1337.github.io
+Ivano Bilenchi's Repo: https://ib-soft.net/cydia
+Ivano Bilenchi's Beta Repo: https://ib-soft.net/cydia/beta
+David Goldman's Repo: http://apt.golddavid.com
+Mootjeuh's Repository: http://apt.mootjeuh.com
+Chewmieser's Repo: http://apt.steverolfe.com
+arcetera's repo: http://arcetera.github.io
+CoolStar's Repo: http://coolstar.org/publicrepo
+Hiraku: http://cydia.hiraku.tw
+joedj's beta repo: http://cydia.joedj.net
+The Reedpo: http://cydia.r333d.com
+rob311's beta repo: http://cydia.rob311.com/repo
+Teggers Repo: http://extigy.github.io/repo
+sident.net for cydia: http://ftp.sident.net/cydia-beta
+Delta: http://getdelta.co
+moyashi repository: http://hitoriblog.com/apt
+Jonas Gessner's Repo: http://j-gessner.de/repo
+JonLuca's Repo: http://jonlu.ca/repo
+Limneos Repo: http://limneos.net/repo
+Theos: http://nix.howett.net/theos
+Noeliel Beta / DEV: http://noeliel.com/repo
+TIGI Software: http://tigisoftware.com/cydia
+RCR (Reddit Community Repo): http://rcrepo.com
+ReddestDream's Repo: http://reddestdream.github.io
+Redzrex's Repo: http://redzrex.github.io
+Alex Zielenski: http://repo.alexzielenski.com
+Avalon Studios: http://repo.avalon-studios.de
+iPhoNews.ro: http://repo.iphonews.ro
+tyler's repo: http://repo.tylercasson.com
+winneon's repository: http://repo.winneon.moe
+rpetrich repo: http://rpetri.ch/repo
+S0MECoder’s Repo: http://s0mecoder.github.io/repo
+s1ris: http://s1ris.github.io/repo
+repo de seatanners: http://seatanners.github.io/repo
+Skylerk99: http://skylerk99.github.io
+Wynd: http://wynd07.appspot.com/r7
+LacertosusDeus's Repo: https://LacertosusRepo.github.io
+tdmd repo: https://tdmd.github.io
+CP Digital Darkroom Beta Repo: http://beta.cpdigitaldarkroom.com
+Bruno Andrade's Repo: https://brunonfl.github.io
+JunesiPhone: http://junesiphone.com/supersecret
+ShadeZepheri Repo: https://shade-zepheri.github.io
+Clezz.com: http://apt.clezz.com
+Fouad's Repo: http://cydia.f0u4d.com
+hAcx Repo: http://hacx.org/repo
+tihmstar beta repo: http://repo.tihmstar.net
+aaron.ms prototype repo: http://aaron.ms/repo
+CoolBooter Repo: https://coolbooter.com
+Decimation's Repo: https://decimation.github.io
+kinchan Repository: http://kindadev.com/apt
+Miro-PPB's Repo: https://miroppb.com/repo
+typ0s2d10: https://typ0s2d10.appspot.com/repo
+fidele007 Repo: https://fidele007.github.io
+RBT Digital Beta: https://repo.rbtdigital.com
+EthanRDoesMC: https://ethanrdoesmc.github.io/repo
+Sticktron's Lab: http://sticktron.github.com/repo
+AppleBetas' Repo: https://repo.applebetas.co
+Matchstic: http://repo.incendo.ws
+julioverne's Repo: http://julioverne.github.io
+stek29's Cydia repo: https://stek29.rocks/cyrepo
+D4ni's Repo: https://repo.d4ni.nl
+Alex's Repo: https://leftyfl1p.github.io
+CreatureSurvive's Repo: https://creaturesurvive.github.io
+Alex Beals: https://cydia.alexbeals.com
+Frozen Penguin's Repo: https://frozen-penguin.github.io
+TheComputerWhisperer's Repo: https://legitcomputerwhisperer.github.io
+Electra's iOS Utilities: https://electrarepo64.coolstar.org
+Oliver's Repository: https://olvrb.github.io/repo
+PsychoTea's Backroom: http://repo.sparkes.zone
+CreatureCoding: https://creaturecoding.com/repo
+rudikelly's repo: https://rudikelly.github.io/repo
+Douli Uroczy ??: https://d0uliur0czy.xyz
+ParrotGeek Software: https://parrotgeek.com/repo
+TetherMe: http://repo.tetherme.net
+AidsMcGhee: https://jakeai.github.io
+Spica T Repo: https://spicat.github.io
+Evelyn's Collection: https://evynw.github.io
+s1ris: https://apt.s1ris.org
+A tweak repository by Leroy: http://repo.bonventre.ch
+qwertyuiop1379's repo: https://qwertyuiop1379.github.io
+iDevice Hacked Repo: https://idevicehacked.com
+mac-user669's Repo: https://mac-user669.github.io/repo
+FlashBack for iOS!: https://flashbackios.github.io
+Artik's repo: http://artikushg.github.io
+ARX8x's repo: https://apt.arx8x.net
+Arthur da Paz: https://arthurdapaz.github.io
+PoomSmart's Repo: https://poomsmart.github.io/repo
+m156@nrkvv: http://m156nrkvv.g2.xrea.com/repo
+henrikssonbrothers: https://henrikssonbrothers.com/cydia/repo
+jinwk00: https://jinwk00.github.io
+MidnightChips Repo: https://repo.midnightchips.me
+cj81499's Cydia Repo: https://cj81499.github.io/repo
+CokePokes: https://cokepokes.github.io
+SparkDev: https://sparkdev.me
+UnlimApps: https://beta.unlimapps.com
+dunkston's repo: https://dunkston.github.io/repo
+dpkg9510's Repo: https://dpkg9510.github.io
+Rango’s Repo: https://yungspecht.github.io
+NoisyFlake: https://apt.noisyflake.com
+aliencillo: https://aliencillo.github.io/repo
+Nexus: https://nexusrepo.kro.kr
+Thireus Repository: https://repo.thireus.com
+EsquilliDev: https://esquillidev.github.io
+shiftcmdk: https://shiftcmdk.github.io/repo
+GMoran Beta Software: https://gmoran.me/repo
+xTM3x Repo: https://xtm3x.github.io/repo
+NathanW's Repo: https://nathanwhit.github.io/repo
+Kaurux: https://karimo299.github.io/repo
+eswick's Repo: https://eswick.github.io
+yo.bur: https://repo.yobur.xyz
+Twickd: https://repo.twickd.com
+Sn Repo: https://sn50repo.github.io
+Dev4i Source: http://dev4i.yourepo.com
+tateu's repo: http://www.tateu.net/repo
+PixelOmer's Repo: http://repo.pixelomer.com
+midkin's repo: https://repo.midkin.net
+Maxwell Dausch's Repo: https://repo.daus.ch
+EVELYN-YNam Source: https://evelyn-ynam.yourepo.com
+Emil Avara - YouRepo: https://emilavara.yourepo.com
+RestiveConch - YouRepo: https://restiveconch.yourepo.com
+R0wDrunner: https://r0wdrunner.github.io/repo
+Cammm: https://cammmpw.github.io/repo
+kingmehu Source - YouRepo: https://kingmehu.yourepo.com
+Cryptic's Repo: https://cryptiiiic.com/repo
+AutoTouch: http://apt.autotouch.net
+SwedishPrxck's Repo - YouRepo: http://theswedishprxck.yourepo.com
+Exormeter Source - YouRepo: https://exormeter.yourepo.com
+VincentMdlM Source - YouRepo: https://vincentmdlm.yourepo.com
+carlyd95's Repo: http://carlyd95.github.io/repo
+Zyan910’s Source - YouRepo: https://zyan910.yourepo.com
+ArtikusHG Source - YouRepo: https://artikushg.yourepo.com
+lily: https://lily.toys/repo
+Jbrownllama Source - YouRepo: https://jbrownllama.yourepo.com
+JC Snider's Repo: https://jcsnider.github.io/CydiaRepo
+CloudFTL Source - YouRepo: http://cloudftl.yourepo.com
+LonestarX's repo: https://repo.lonestarx.net
+Mumian: http://apt.mumiantech.com
+DGh0st: https://dgh0st.github.io
+Matchstic (Xen): https://xenpublic.incendo.ws
+lex Source - YouRepo: https://lex.yourepo.com
+Duraid Abdul - YouRepo: https://duraidabdul.yourepo.com
+c1d3r's repo: https://c1d3r.com/repo
+MayBeMe Repo: https://maybeme.fr
+Pikabu Repo: https://pikabucydia.github.io
+akusio repo: https://akusio.github.io
+subdiox's Repo: https://subdiox.com/cydia
+iOS WebStack: https://cydia.akemi.ai/webstack
+KeatonDev: https://repo.keaton.dev
+shepgoba's repo: https://shepgoba.me/repo
+Fouad's Repo: https://apt.fouadraheb.com
+morwi's repo: https://yp261.github.io/repo
+Alfhaily APT: https://apt.alfhaily.me
+cemck's Repo: http://cemck.github.io/repo
+cydia.kemmis.info: http://cydia.kemmis.info
+eXqusic's Repo: https://exqusic.github.io
+LuMartti's Repo: https://lumartti.github.io
+iCraze's Repo: https://icrazeios.github.io/repo
+Baw Repo: http://repo.rpgfarm.com
+Team FESTIVAL: https://festival.ml/repo
+Dynastic Repo: https://repo.dynastic.co
+ReJail Repository: https://rejail.ru
+93嗨客源: http://repo.qqtlr.com
+AppCake: http://cydia.iphonecake.com
+Kanam's Repo: http://kanam.me/repo
+nullpixel's Repo: https://repo.nullpixel.uk
+Skitty's Repo: https://skitty.xyz/repo
+candoizo's repo: https://ndoizo.ca
+Ryley's Repo: https://ryleyangus.com/repo
+K-Repo: https://kpwnz.github.io/Cydia
+AppTapp repo: https://apptapp.me/repo
+jjolano's iOS Tweaks: https://ios.jjolano.me
+Ninji's Repo: http://cydia.wuffs.org
+julioverne: https://julio.hackyouriphone.org
+jailbreak365's Repo: https://jb365.github.io
+aesthyrica: https://aesthyrica.github.io/repo
+alex_PNG Repo: https://alexpng.github.io
+level3tjg: http://level3tjg.xyz/repo
+CydiaGeek Source: https://cydiageek.yourepo.com
+Antique's Repo: https://antiquebeta.github.io
+opa334's Repo: https://opa334.github.io
+Halo_Michael's Cydia Repo: https://halo-michael.github.io/repo
+Zebra: https://getzbra.com/repo
+YouRepo: https://www.yourepo.com
+Samg_is_a_Ninja's Repo: https://samgisaninja.github.io
+Chariz: https://repo.chariz.com
+Geometric Store: https://apt.geometricsoftware.se
+IArrays: https://apt.iarrays.com
+Pwn20wnd's Cydia Repo: http://xnu.science/repo
+LaughingQuoll's Repo: http://laughingquoll.net/repo
+RKO1195 repo: https://rko1195.com/cydia
+Secura Repo: https://apt.securarepo.io
+aesthyrica: https://aesthyrica.com/repo
+Kurrt's Repo: https://kurrt.com/repo
+Rishanan's Repo: https://rishanan.github.io
+gilesgc repo: https://gilesgc.github.io/repo
+Dylan Duff's Repo: https://repo.dylanduff.com
+Sugiuta's Repo: https://sugiuta.github.io
+Pr0crustes: https://pr0crustes.github.io/repo
+MPG13's Cydia Repo: https://micahpgomez.dev/repo
+Codey Moore: https://codeymoore.github.io/repo
+/u/SHIVADOC's beta repo: https://akeaswaran.github.io/repo
+Jammytea's repo: https://jammytea.github.io
+Harrison Apps Repo: http://www.harrisonapps.com/repo
+Supercharge Repo: https://repo.supercharge.app
+dReAmNeT Repo: https://repo.dreamnet.at
+if0x’s beta repo: https://if0x.github.io
+OpenDebs Repository: https://repo.opendebs.com
+Menushka's Repo: https://repo.menushka.ca
+PPSSPP Repo: http://cydia.ppsspp.org
+ZezBlog Repo: https://yazeedot.github.io
+Squ1dd13: http://squ1dd13.tk/repo
+Martin Pham Cydia: http://martinpham.gitlab.io/cydia
+JannikCrack: https://jannikcrack.github.io
+deVbug Cydia Repo: https://devbug.me/apt
+Clezz.com: http://cydia.clezz.com
+ridn: https://ridn.me/repo
+wolfposd Beta Repository: https://wolfposd.github.io
+Shuga's Repo: https://repo.shuga.co
+team Kodi: http://mirrors.kodi.tv/apt/ios
+TapSharp: https://tapsharp.github.io
+SpiritOfLogic Beta Repo: http://repo.spiritoflogic.com
+XMB5: https://xmb5.github.io/cydia
+Sn0wCooder repo: https://sn0wcooder.github.io
+chickenmatt5 repo: https://chickenmatt5.github.io/repo
+Ramen Repo: https://ramenrepo.github.io
+OvercookedFish's Repo: https://overcookedfish.github.io
+Shaundegr8's Repo: https://shaundegr8.github.io
+Mologie: https://mologie.github.io/repo
+DummySprite: http://apt.dummysprite.com
+Fay.io Dev: http://cydia.fay.io
+Patrick Knauf's repo: https://patrick-knauf.github.io/repo
+KyleFang: https://zhigang1992.github.io/cydia
+Sarim's Cydia Repo: https://sarim.github.io/cydia
+Midcoreboot's Repo: https://midcoreboot.github.io
+iExiled Development: https://repo.iexiled.com
+SkyFrost Beta Repository: https://skyfrost.github.io/repo
+Clezz.com: http://cydia.clezz.com/a
+saj0vie Repo: https://saj0vie.github.io
+Pixelex - YouRepo: https://pixelex.yourepo.com
+ichitaso repository: https://cydia.ichitaso.com
+ConorTheDev: https://repo.conorthedev.me
+ZX02 Source - YouRepo: https://zx02.yourepo.com
+Pulandres Mirror: https://pulmirror.com
+XsF1re's Repo: https://repo.xsf1re.kr
+MTAC's Repo: https://repo.mtac.app
+pxcex Repo: https://paxcex.github.io
+Capt Inc: https://captinc.github.io
+xream Source - YouRepo: https://xream.yourepo.com
+Pwnder's Repo: https://pwnders.github.io/repo
+Johnzaro's Perfect Repo: http://johnzaro.github.io/cydia
+MiRO92: https://miro92.com/repo
+udevs: https://udevsharold.github.io/repo
+Litten's Wondercafé ☕️🌸: https://repo.litten.love
+nyuszika7h's repo: https://repo.cadoth.net
+UTM: https://cydia.getutm.app
+MERONA Repo: http://repo.co.kr
+iSecureOS Security Repo: https://isecureos.idevicecentral.com/repo
+MYXXdev's Repository: https://myxxdev.github.io
+1Conan: https://repo.1conan.com
